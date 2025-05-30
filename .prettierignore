@@ -1,0 +1,11 @@
+# Ignorar todos os arquivos
+*
+**/*
+*.ts
+*.js
+*.json
+*.md
+src/
+test/
+dist/
+node_modules/
