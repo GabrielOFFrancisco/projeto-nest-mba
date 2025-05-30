@@ -2,7 +2,10 @@ nest-project-mba
 Repositório para o projeto de MBA com NestJS
 
 **Gabriel Olimpio Ferreira Francisco - gabriel.francisco@aluno.faculdadeimpacta.com.br**
+<br>
 **Gabriel Freire Fumes - gabriel.fumes@aluno.faculdadeimpacta.com.br**
+<br>
+**Camila Ribeiro de Jesus Oliveira - camila.jesus@aluno.faculdadeimpacta.com.br**
 <br>
 <br>
 📌 API de Gerenciamento de Usuários
