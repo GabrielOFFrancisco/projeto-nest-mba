@@ -9,6 +9,7 @@ Repositório para o projeto de MBA com NestJS
 <br>
 **Rayana Bispo de Souza - rayana.souza@aluno.faculdadeimpacta.com.br**
 <br>
+<br>
 📌 API de Gerenciamento de Usuários
 Uma API REST completa para gerenciamento de usuários desenvolvida com Node.js e NestJS, implementando operações CRUD com armazenamento em memória.
 
